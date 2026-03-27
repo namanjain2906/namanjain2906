@@ -35,5 +35,4 @@ I like learning by building real things, breaking problems down, and improving m
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/namanjain2906
 - LinkedIn: https://www.linkedin.com/in/naman-jain-320b79311/
